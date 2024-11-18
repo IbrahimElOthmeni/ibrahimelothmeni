@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ibrahim El Othmani 👋
 
-<!--
-**IbrahimElOthmeni/ibrahimelothmeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate web developer working with technologies like Spring Boot, and Angular. I love building scalable and efficient systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Skills & Technologies
+- **Languages:** Java, JavaScript, TypeScript
+- **Frameworks:** Spring Boot,Symfony, Angular, React
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, Docker, Maven, Jenkins
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ibrahim-el-othmani-elothmani/)
